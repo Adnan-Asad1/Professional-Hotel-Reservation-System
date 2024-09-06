@@ -3,7 +3,7 @@ A complete project, that manages all the processing of Reservations made by the 
 
 It's helpful in cases when:  
 Customer wants to book a room according to specifications provided.
-
+ 
 Structure:
 1. Security section: To ensure the security, privacy and login Separations for both customer and Admin.
 2. This project includes an "User Panel" from where the user can view the live chart of room bookings to ensure the availibility of the rooms.
