@@ -1,0 +1,3 @@
+122,free,Luxury,70000,you,23
+0,booked,Bussines Class,50000,Expectation,33
+333,free,Bussines Class,50000,5,32
