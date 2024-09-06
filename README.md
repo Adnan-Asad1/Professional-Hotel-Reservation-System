@@ -1,7 +1,7 @@
 # Professional-Hotel-Reservation-System
 A complete project, that manages all the processing of Reservations made by the customers.
 
-It's helpful in cases when: 
+It's helpful in cases when:  
 Customer wants to book a room according to specifications provided.
 
 Structure:
