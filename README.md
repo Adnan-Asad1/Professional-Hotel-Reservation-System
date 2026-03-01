@@ -20,4 +20,4 @@ Addtional Features:
 2. Validations: A secure and restricted inputs for String and numeric data.
 3. Speacial images and text: Encoded with the beauty of Binary images and Adoreable visualization.
 4. Animations: An Welcoming and Ending Animations for better user experience.
-5. Low memoray usage: Built under the intense and precise measures, for low memory usage and good experience.
+5. Low memoray usage: Built under the intense and precise measures, for low memory usage and good experiencs.
